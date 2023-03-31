@@ -1,2 +1,2 @@
-# kiii-initial-jenkins-project
+# Initial Jenkins Project
 CI/CD Course
